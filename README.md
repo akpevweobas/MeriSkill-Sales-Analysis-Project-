@@ -1,7 +1,5 @@
 # MeriSkill-Sales-Analysis-Project-
-My first project from the MeriSKILL internship 
 
-### I STARTED MY MERISKILL INTERNSHIP ON THE 16TH September, 2023 AND MY FIRST PROJECT WAS THE SALES ANALYSIS.
 ![](MeriSkill_Logo.jpg)
 
 ## DESCRIPTION.
