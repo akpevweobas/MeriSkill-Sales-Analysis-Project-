@@ -1,6 +1,5 @@
-# MeriSkill-Sales-Analysis-Project-
+# Sales-Analysis-Project-
 
-![](MeriSkill_Logo.jpg)
 
 ## DESCRIPTION.
 In this project, I explored large dataset to extract **valuable insights**, **identify trends**, top selling products and revenue metrics for business decision making. This project showcased my ability to manipulate derive insights from large datasets and make data driven recommendations for optimizing sales strategy. 
